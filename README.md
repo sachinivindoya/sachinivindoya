@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinivindoya" alt="sachinivindoya" /></a> </p>
 
-- 🌱 I’m currently learning **Internet Technologies**
+- 🌱 I’m currently learning **Advanced API Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sachinivindoya/MyProfile.git](https://github.com/sachinivindoya/MyProfile.git)
 
