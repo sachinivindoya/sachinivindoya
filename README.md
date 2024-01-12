@@ -56,6 +56,7 @@
 <br>  
 <code><img height="40" src="https://skillicons.dev/icons?i=figma"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=github"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=firebase"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=androidstudio"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=idea"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=vscode"></code>
