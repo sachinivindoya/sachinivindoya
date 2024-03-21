@@ -8,7 +8,7 @@
 ##   About me
 
 - :school: I am  a student at IJSE-Institute of Software Engineering.
-- 🌱 I’m currently learning `Rapid Application Development` `.
+- 🌱 I’m currently learning `MERN stack` `.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`
 - 🤔 I’m looking for help with Coding.
